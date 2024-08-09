@@ -561,6 +561,12 @@ section {
   background: #f3f8ff;
 }
 
+.credentials-badge {
+  background-color: #1f5297; /* Replace with your desired color */
+  border-radius: 50%;
+  padding: 10px 20px; /* Adjust padding as needed */
+  color: #fff; /* Text color */
+}
 .certificate-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
